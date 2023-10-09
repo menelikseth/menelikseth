@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on small projects that will allow me to hone my skills
-- 📫 How to reach me ...
+- 📫 You can reach me via my [LinkedIn page](https://www.linkedin.com/in/menelikseth/)!
 
 <!---
 menelikseth/menelikseth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
